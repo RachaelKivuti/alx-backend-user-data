@@ -14,7 +14,7 @@ What you should learn from this project:
 
 ### [0. User model](./user.py)
 * In this task you will create a SQLAlchemy model named User for a database table named users (by using the mapping declaration of SQLAlchemy). 
-
+---
 
 ### [1. create user](./db.py)
 * In this task, you will complete the DB class provided below to implement the add_user method.
