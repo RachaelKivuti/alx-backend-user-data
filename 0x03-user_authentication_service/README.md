@@ -98,4 +98,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Rachael Kivuti** - [Mahiuha](https://github.com/RachaelKivuti)
